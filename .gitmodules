@@ -2,3 +2,7 @@
 	path = URL
 	url = /alx-system_engineering-devops
 	branch = master
+[submodule "public"]
+	path = public
+	url = /alx-system_engineering-devops
+	branch = master
